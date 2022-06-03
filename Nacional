@@ -15,6 +15,9 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b26
 #EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24 -logo2019.png" group-title="NOTICIAS", A24 36.3
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24 -logo2019.png" group-title="NOTICIAS", A24 36.3
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/Y8t4LAkwUOA
+
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS ", TODO NOTICIAS  
 https://edge9-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 
